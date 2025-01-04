@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit pathak</h1>
-<h3 align="center">A passionate developer and Youtuber from India</h3>
+<h3 align="center">A passionate MERN Stack Developer and YouTuber from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpathak62&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpathak62" /> </p>
 
