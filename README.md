@@ -29,3 +29,41 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpathak62&show_icons=true&locale=en" alt="ankitpathak62" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpathak62&" alt="ankitpathak62" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
