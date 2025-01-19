@@ -1,6 +1,4 @@
-Here's a cleaned-up version of your README content, removing references to issues, pull requests, and reviews:
 
----
 
 <h1 align="center">Hi 👋, I'm Ankit Pathak</h1>
 <h3 align="center">A passionate MERN Stack Developer and YouTuber from India</h3>
